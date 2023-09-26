@@ -34,7 +34,8 @@ alert("********* TODO LIST *********\n" + toDoList.join("\n"));
 
 C'est cette ligne que je choisis de mettre dans mon code !
 
+Seul petit défaut ? Je perds ma numérotation devant les éléments de ma liste, et d'après ChatGPT, je pourrais les retrouver en utilisant ".map()"... que je ne connais aps encore. DOnc en l'état, je laisse de côté.
+
 ## Ce que je dois retenir :
 
-Tout ça vient ddu fait que j'ai survolé trop rapidement la méthode ".join()" qui est tout de même bien plus rapide, car sort chaque élément du tableau pour les afficher en une string, dont els modalités de séparation sont indiquées par ce qu'on met dans la parenthèse.  
-
+Tout ça vient ddu fait que j'ai survolé trop rapidement la méthode ".join()" qui est tout de même bien plus rapide, car sort chaque élément du tableau pour les afficher en une string, dont les modalités de séparation sont indiquées par ce qu'on met dans la parenthèse.  
